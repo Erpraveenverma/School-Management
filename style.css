@@ -1,0 +1,49 @@
+body
+{
+background-color: white;
+}
+#hd1
+{
+color:red;
+background-color: white;
+}
+#l1{
+color:black;
+}
+.div1{
+background-color: yellow;
+padding:1px;
+}
+#ov1{
+background-color:pink;
+}
+#ov2{
+background-color:lightgreen;
+}
+#ov3{
+background-color:lightblue;
+}
+#ov4{
+background-color:grey;
+}
+#ov5{
+background-color:voilet;
+}
+#ov6{
+background-color:yellow;
+}
+.admintitle{
+background-color: #530602;
+color:white;
+margin-left:50px;
+margin-right:50px;
+height:140px;
+line-height:140px;
+}
+.dashboard{
+background-color: #IDEFEF;
+color:#000;
+margin-top:50px;
+margin-right:50px;
+height:140px;
+}
